@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Qué es el Pogo Sticking en SEO y cómo evitarlo? </title>
+    <link>https://www.prestashop.com/es/blog/que-es-el-pogo-sticking</link>
+    <description></description>
+     <pubDate>Fri, 30 Oct 2020 10:00:00 +0100</pubDate>
+ <dc:creator>Emilio Miguel López - Madre SEOperiora</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-el-pogo-sticking</guid>
+  </item>
+  <item>
+    <title>Los 5 mejores módulos de envío y logística</title>
+    <link>https://www.prestashop.com/es/blog/modulos-de-envio-y-logistica</link>
+    <description>Uno de los factores más importantes de tu tienda Online, que puede condicionar el cierre de la compra, es el tiempo de envío. </description>
+     <pubDate>Wed, 28 Oct 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Alejandro Ramos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-de-envio-y-logistica</guid>
+  </item>
+  <item>
+    <title>10+1 módulos de PrestaShop imprescindibles en Black Friday y Navidad</title>
+    <link>https://www.prestashop.com/es/blog/modulos-black-friday-navidad</link>
+    <description>Hoy te vamos a mostrar los módulos de PrestaShop que debes considerar para hacer frente al Black Friday y la temporada navideña con éxito.</description>
+     <pubDate>Mon, 26 Oct 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-black-friday-navidad</guid>
+  </item>
+  <item>
+    <title>¿Qué es un perfil 360º del cliente y por qué aumenta tus ventas?</title>
+    <link>https://www.prestashop.com/es/blog/perfil-360-de-clientes</link>
+    <description>¿Cómo extraer el máximo beneficio de mi estrategia de marketing y ventas? ¿Qué es un Customer Data Platform? </description>
+     <pubDate>Thu, 22 Oct 2020 22:46:23 +0200</pubDate>
+ <dc:creator>Rostislav Torchinskiy</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/perfil-360-de-clientes</guid>
+  </item>
+  <item>
+    <title>La evolución del eCommerce en el Sector Primario en España</title>
+    <link>https://www.prestashop.com/es/blog/ecommerce-sector-primario-espana</link>
+    <description>Desde el lanzamiento de PrestaShop en España en el año 2007, muchos sectores han ido tomando esta plataforma de eCommerce como principal canal de venta. </description>
+     <pubDate>Wed, 21 Oct 2020 10:00:00 +0200</pubDate>
+ <dc:creator>Juan Antonio Luque</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ecommerce-sector-primario-espana</guid>
+  </item>
+  <item>
+    <title>¿Debo ofrecer gastos de envío gratis en mi eCommerce? (Opiniones de especialistas)</title>
+    <link>https://www.prestashop.com/es/blog/gastos-de-envio-gratuitos</link>
+    <description>¿Tienes una tienda online y no sabes aún si ofrecer los gastos de envío gratis a tus clientes?</description>
+     <pubDate>Tue, 20 Oct 2020 11:00:00 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/gastos-de-envio-gratuitos</guid>
+  </item>
+  <item>
+    <title> Prueba Social o Social Proof: ¿cómo usarla para reforzar tu marca? </title>
+    <link>https://www.prestashop.com/es/blog/que-es-social-proof</link>
+    <description>El mundo del marketing está lleno de términos que, de tener un negocio Online, deberías conocer.</description>
+     <pubDate>Mon, 19 Oct 2020 10:26:36 +0200</pubDate>
+ <dc:creator>Toni Sallent Pàmies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-social-proof</guid>
+  </item>
+  <item>
+    <title>La importancia de la traducción en la internacionalización de tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/traduccion-en-la-internacionalizacion-de-tu-ecommerce</link>
+    <description>Hablar el mismo idioma de tu cliente siempre ha sido una de las claves del éxito.</description>
+     <pubDate>Fri, 16 Oct 2020 10:00:00 +0200</pubDate>
+ <dc:creator>Sara Lázaro</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/traduccion-en-la-internacionalizacion-de-tu-ecommerce</guid>
+  </item>
+  <item>
+    <title>Aceites Delgado ¡La digitalización de un negocio tradicional!</title>
+    <link>https://www.prestashop.com/es/blog/el-exito-de-aceites-delgado</link>
+    <description>Aceites Delgado es una marca tradicional que ha apostado por la digitalización ¡y ha ganado!</description>
+     <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
+ <dc:creator>Cristina Casadejús</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/el-exito-de-aceites-delgado</guid>
+  </item>
+  <item>
+    <title>PrestaShop Metrics ¡La nueva herramienta de analítica para tu tienda!</title>
+    <link>https://www.prestashop.com/es/blog/que-es-prestashop-metrics</link>
+    <description>En el sector del eCommerce, quizás más que en otros ámbitos, </description>
+     <pubDate>Fri, 09 Oct 2020 08:33:31 +0200</pubDate>
+ <dc:creator>Pierre-Olivier Calande</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-prestashop-metrics</guid>
+  </item>
+  </channel>
+</rss>

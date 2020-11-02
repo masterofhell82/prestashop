@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>Welcome2</name>
+	<displayName><![CDATA[Frase de Bienvenida]]></displayName>
+	<version><![CDATA[1.7.6]]></version>
+	<description><![CDATA[Acá se agregara la frase de bienvenida a los clientes]]></description>
+	<author><![CDATA[Andres Benitez]]></author>
+	<tab><![CDATA[content_management]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
